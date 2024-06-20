@@ -63,14 +63,14 @@
 
 <!-- Icons and Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hosam-profile/" target="_blank">
+  <a href="[https://www.linkedin.com/in/hosam-profile/](https://www.linkedin.com/in/hosam-ashraf-83724621a/)" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50">
   </a>
-  <a href="https://twitter.com/hosam-profile" target="_blank">
+  <a href="[https://twitter.com/hosam-profile](https://x.com/Hosashraf1)" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/1344706/235113725-2d7ba5f7-c7de-48fa-86f4-bc64424c3b82.png" alt="Twitter (X)" height="50" width="50">
   </a>
   
-  <a href="https://www.facebook.com/hosam-profile" target="_blank">
+  <a href="[https://www.facebook.com/hosam-profile](https://www.facebook.com/Hosamashraf999/)" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/1344706/235113737-5f64b7d7-7332-49b3-b4ad-b10519c9e634.png" alt="Facebook" height="50" width="50">
   </a>
 </p>
