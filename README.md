@@ -9,7 +9,7 @@
 </div>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A77F7&multiline=true&repeat=false&random=false&width=435&height=100&lines=Ungraduated+Embedded+System+Engineer;Faculty+Of+Engineering;Alexandria+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A77F7&multiline=true&repeat=false&random=false&width=435&height=100&lines=Embedded+Systems+Engineer;Specialized+in+C%2C+C++%2C+ARM+Architecture;Electronics+and+Communication+Engineering)](https://git.io/typing-svg)
 
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
@@ -20,11 +20,10 @@
 
 <!-- Intro start -->
 <ul>
-  <li>🔭 I’m currently working on <b>C, Embedded C, Embedded Linux, ARM</b></li>
-  <li>🌱 I’m currently learning to become an embedded systems engineer.</li>
-  <li>☁️ I've keen interest in Embedded systems. So, I'm learning <b>C programming</b></li>
-  <li>💬 Ask me about <b>C, C++, Microcontroller Architecture, ARM Architecture, Embedded Linux</b></li>
-  <li>📫 Feel free to reach me out at <b>hosashraf70@gmail.com</b></li>
+  <li>🔭 I’m currently working on <b>Embedded C, RTOS, and FOTA for ADAS</b></li>
+  <li>🌱 I’m learning advanced <b>Real-Time Operating Systems</b> and firmware development.</li>
+  <li>💬 Ask me about <b>Embedded Systems, C, C++, ARM Cortex-M</b></li>
+  <li>📫 Reach me at <b>hosashraf70@gmail.com</b></li>
 </ul>
 <!-- Intro end -->
 
@@ -33,7 +32,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7osashraf&theme=2077" alt="GitHub Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7osashraf&theme=2077" alt="GitHub Stats">
 </div>
-
 
 <!-- Technologies That I Know -->
 <div id="user-content-toc">
@@ -63,18 +61,13 @@
 
 <!-- Icons and Links -->
 <p align="center">
-  <a href="[https://www.linkedin.com/in/hosam-profile/](https://www.linkedin.com/in/hosam-ashraf-83724621a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hosam-ashraf-83724621a/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50">
   </a>
-  <a href="[https://twitter.com/hosam-profile](https://x.com/Hosashraf1)" target="_blank">
+  <a href="https://x.com/Hosashraf1" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/1344706/235113725-2d7ba5f7-c7de-48fa-86f4-bc64424c3b82.png" alt="Twitter (X)" height="50" width="50">
   </a>
-  
-  <a href="[https://www.facebook.com/hosam-profile](https://www.facebook.com/Hosamashraf999/)" target="_blank">
+  <a href="https://www.facebook.com/Hosamashraf999/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/1344706/235113737-5f64b7d7-7332-49b3-b4ad-b10519c9e634.png" alt="Facebook" height="50" width="50">
   </a>
 </p>
-
-
-
-
