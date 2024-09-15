@@ -49,8 +49,8 @@
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation">
-</div>
+  <img src="https://github.com/7osashraf/7osashraf/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+
 
 <!-- Connect with me -->
 <div id="user-content-toc">
